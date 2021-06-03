@@ -18,7 +18,7 @@ Sprint
 | Generar reportes de inventario | Finalizado | Jim Ascencio |
 
 
-| Comando | Descripción |
+| Tarea | Estado | Encargado |
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificados |
 | git diff | Muestra las diferencias de archivo que no han sido preparadas |
