@@ -5,6 +5,12 @@ Sprint
 
 
 | Tarea | Estado | Encargado |
+| :---         |     :---:      |          ---: |
+| Interfaz del Login   | Finalizado     | Nehemias Morales    |
+| git diff     | git diff       | git diff      |
+
+
+| Tarea | Estado | Encargado |
 | --- | --- |
 | Interfaz del Login | Finalizado | Nehemias Morales |
 
