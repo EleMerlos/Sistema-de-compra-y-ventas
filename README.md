@@ -1,3 +1,4 @@
+
 # Sistema-de-compra-y-ventas
 
 Sprint 
@@ -28,5 +29,8 @@ modificar, eliminar)                               |      Pendiente          |  
 ----------------------------------------------------------------------------------------------------
 
 
-
+| Comando | Descripción |
+| --- | --- |
+| git status | Enumera todos los archivos nuevos o modificados |
+| git diff | Muestra las diferencias de archivo que no han sido preparadas |
 
