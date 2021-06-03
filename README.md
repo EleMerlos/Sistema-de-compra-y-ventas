@@ -16,7 +16,6 @@ Sprint 1
 Sprint 2
 | Tarea | Estado | Encargado |
 | :---         |     :---:      |          ---: |
-| Interfaz del Login   | Finalizado     | Nehemias Morales    |
 | Funciones del área de ventas ( generar ventas)     | Pendiente       | -      |
 | Funciones del área de inventario (agregar, modificar, eliminar)     | Pendiente       | -      |
 | Generar reportes de ventas     | Pendiente       | -      |
