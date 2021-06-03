@@ -7,6 +7,8 @@ Sprint
 | Tarea | Estado | Encargado |
 | --- | --- |
 | Interfaz del Login | Finalizado | Nehemias Morales |
+
+
 | Interfaz del área de Ventas | En Proceso | Nehemias Morales |
 | Interfaz del inventario | Finalizado | Azucena Merlos |
 | Creación de la base de datos |  Finalizado | Bryan Mata |
@@ -18,7 +20,7 @@ Sprint
 | Generar reportes de inventario | Finalizado | Jim Ascencio |
 
 
-| Tarea | Estado | Encargado |
+| Tarea | Estado |
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificados |
 | git diff | Muestra las diferencias de archivo que no han sido preparadas |
