@@ -17,10 +17,10 @@ Sprint 2
 | Tarea | Estado | Encargado |
 | :---         |     :---:      |          ---: |
 | Funciones del área de ventas ( generar ventas)     | Pendiente       | -      |
-| Funciones del área de inventario (agregar, modificar, eliminar)     | Pendiente       | -      |
+| Funciones del área de inventario (agregar, modificar, eliminar)     | En proceso       | Jim Ascencio      |
 | Generar reportes de ventas     | Pendiente       | -      |
 | Generar reportes de compras     | Pendiente       | -      |
-| Creación de funciones del admin   | En Proceso     | Jim Ascencio    |
+| Creación de funciones del admin   | Pendiente     | -    |
 
 
 
