@@ -22,7 +22,7 @@ Sprint 2
 | Funciones del área de inventario (eliminar)     | Finalizado       | Jim Ascencio      |
 | Generar reportes de ventas     | Pendiente       | -      |
 | Generar reportes de compras     | Pendiente       | -      |
-| Creación de funciones del admin   | Pendiente     | -    |
+| Creación de funciones del admin y permisos de usuario  | Finalizado     | Jim Ascencio    |
 
 
 
