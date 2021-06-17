@@ -24,5 +24,7 @@ Sprint 2
 | Generar reportes de compras     | Finalizado       | Bryan Mata     |
 | Creación de funciones del admin y permisos de usuario  | Finalizado     | Jim Ascencio    |
 | Manual de procedimientos     | En proceso       | Azucena Merlos     |
+| Testeo     | En proceso       | Nehemias Morales y Azucena Merlos     |
+
 
 
