@@ -18,11 +18,11 @@ Sprint 2
 | Tarea | Estado | Encargado |
 | :---         |     :---:      |          ---: |
 | Interfaz del área de Ventas     | Finalizado      | Nehemias Morales      |
-| Funciones del área de ventas ( generar ventas)     | Pendiente       | -      |
+| Funciones del área de ventas ( generar ventas)     | Finalizado       | Nehemias Morales      |
 | Funciones del área de inventario (eliminar)     | Finalizado       | Jim Ascencio      |
-| Generar reportes de ventas     | Pendiente       | -      |
-| Generar reportes de compras     | Pendiente       | -      |
+| Generar reportes de ventas     | Finalizado       | Bryan Mata      |
+| Generar reportes de compras     | Finalizado       | Bryan Mata     |
 | Creación de funciones del admin y permisos de usuario  | Finalizado     | Jim Ascencio    |
-
+| Manual de procedimientos     | En proceso       | Azucena Merlos     |
 
 
