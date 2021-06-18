@@ -15,7 +15,7 @@ define("DB_PASSWORD", "");
 define("DB_ENCODE", "utf8");
 
 //guarda el nombre del proyecto
-define("DB_NOMBRE", "ITVentas");
+define("DB_NOMBRE", "La vaca Lola");
 
 
 ?>
