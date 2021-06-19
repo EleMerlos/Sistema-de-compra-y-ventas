@@ -1,0 +1,3 @@
+Visualizacion de los archivos HTML para el login y lista
+Nota: La plantilla ya esta trabajada y fue tomado de una de un codigo libre
+Referencia: https://adminlte.io/

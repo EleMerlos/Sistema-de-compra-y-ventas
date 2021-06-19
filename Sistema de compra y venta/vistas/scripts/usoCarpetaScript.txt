@@ -1,0 +1,1 @@
+Se crean y utilzan los archivos javaScript
